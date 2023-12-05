@@ -2,7 +2,7 @@
 
 <h3>Hello! 🌎</h3>
 
-I'm Bryan, a <strong>JavaScript</strong> student. My main goal is to become a T-shaped developer with a focus on <strong>React</strong> and <strong>Mobile</strong> Development. Until then, I'm learning all that I can.
+<p align="justify">I'm Bryan, a <strong>JavaScript</strong> student. My main goal is to become a T-shaped developer with a focus on <strong>React</strong> and <strong>Mobile</strong> Development. Until then, I'm learning all that I can.</p>
 
 Here are some technologies that I already know:
 
