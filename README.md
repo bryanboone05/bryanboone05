@@ -9,7 +9,7 @@
       </p>
     </td>
     <td style="width:40%; text-align:center;">
-      <img src="./undraw_code-thinking_0vf2.svg" alt="Developer Illustration" width="250px">
+      <img src="./undraw_hello_ccwj.svg" alt="Developer Illustration" width="250px">
     </td>
   </tr>
 </table>
