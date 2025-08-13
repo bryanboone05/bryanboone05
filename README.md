@@ -4,7 +4,7 @@
     <td style="width:60%; vertical-align:top;">
       <h1>Hello! 🌎</h1>
       <p>
-        💻 <strong>JavaScript/TypeScript Developer</strong> | Focado em <strong>React</strong>, <strong>Next.js</strong> e <strong>Mobile Development</strong>.<br>
+        💻 <strong>JavaScript/TypeScript Developer</strong>.<br>
         📚 Estudando para me tornar um <strong>T-Shaped Developer</strong> — com especialização em <strong>Frontend</strong> e sólidos conhecimentos em <strong>Backend</strong>.
       </p>
     </td>
