@@ -5,7 +5,7 @@
       <h1>Hello! 🌎</h1>
       <p>
         💻 <strong>JavaScript/TypeScript Developer</strong>.<br>
-        📚 Estudando para me tornar um <strong>T-Shaped Developer</strong> — com especialização em <strong>Frontend</strong> e sólidos conhecimentos em <strong>Backend</strong>.
+        📚 Studying to become a <strong>T-Shaped Developer</strong> — specializing in <strong>Frontend</strong> with solid knowledge in <strong>Backend</strong>.
       </p>
     </td>
     <td style="width:40%; text-align:center;">
