@@ -42,8 +42,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bryanboone05&show_icons=true&theme=radical&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanboone05&layout=compact&theme=radical"/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bryanboone05&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bryanboone05&theme=radical)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bryanboone05&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bryanboone05&theme=radical&utcOffset=-3)
+
 </div>
 
 ---
