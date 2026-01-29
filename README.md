@@ -37,20 +37,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bryanboone05&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bryanboone05&theme=radical)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bryanboone05&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bryanboone05&theme=radical&utcOffset=-3)
-
-</div>
-
----
-
 ## 📬 Let's Connect
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bryanboone05@gmail.com)
